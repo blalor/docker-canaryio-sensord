@@ -6,7 +6,7 @@ cd /tmp/src
 
 mv program-canaryio-sensord.conf /etc/supervisor.d/
 
-yum install -y canaryio-sensord
+yum install -y canaryio-sensord-0a4ceae-2
 
 ## cleanup
 cd /
